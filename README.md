@@ -14,7 +14,7 @@ This project analyzes historical Tour de France data using Alteryx Designer. It 
 - Extracted hours, minutes, and seconds using Regex. 
 - Calculated actual finishing times in seconds.  
 - Identified winner times and computed margins.  
-- Joined datasets on Tour_ID for unified analysis.  
+- Joined datasets on Year and Tour_ID for unified analysis.  
 - Sorted riders by performance.  
 
 ## 📁 Project Structure
