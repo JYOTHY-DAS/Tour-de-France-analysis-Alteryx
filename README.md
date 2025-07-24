@@ -1,4 +1,3 @@
-# tour-de-france-analysis-alteryx
 # Tour de France Data Analysis with Alteryx
 
 This project analyzes historical Tour de France data using Alteryx Designer. It involves data cleansing, transformation, time parsing, and performance ranking of riders across different years.
