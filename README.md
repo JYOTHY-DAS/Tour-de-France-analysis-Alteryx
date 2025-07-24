@@ -6,7 +6,7 @@ This project analyzes historical Tour de France data using Alteryx Designer. It 
 - `tdf_winners.xlsx`: Information about Tour de France winners and their finish times.
 - `tdf_finishers.xlsx`: Complete list of finishers and their time margins.
 - `tdf_stages.xlsx`: Stage-level data for each tour.
-- `tdf_tours.xlsx`: Tour metadata including Tour_ID, year, and tour codes.
+- `tdf_tours.xlsx`: Tour metadata including year, starting and ending date, starters and finishers.
 
 ## 📊 Key Tasks Performed
 - Cleansed input data.
