@@ -29,10 +29,11 @@ This project analyzes historical Tour de France data using Alteryx Designer. It 
 
 ## 📎 How to Use
 
-1. Open `Tour_de_France.yxmd` in Alteryx Designer  
-2. Ensure the Input files are in the correct path (modify if needed)  
-3. Run the workflow  
-4. Check outputs and insights in the `Output/` folder
+1. Open `Tour_de_France.yxmd` in Alteryx Designer.  
+2. Ensure the input files from the `Input/` folder are correctly referenced in the workflow (update paths if needed).  
+3. Choose an output folder on your system (update the Output Data tools accordingly).  
+4. Run the workflow.  
+5. Review the results in your designated output folder.
 
 ## 📜 License
 
