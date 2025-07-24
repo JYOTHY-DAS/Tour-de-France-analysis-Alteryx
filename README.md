@@ -25,6 +25,9 @@ Tour_de_France/
 │ ├── tdf_stages.xlsx
 │ ├── tdf_tours.xlsx
 │ └── tdf_winners.xlsx
+├── Documentation/
+│ ├── Tour_de_France_Questions.pdf
+│ ├── Tour_de_France_Info.pptx
 ├── Workflow/
 │   └── Tour_de_France.yxmd
 └── README.md
