@@ -18,6 +18,18 @@ This project analyzes historical Tour de France data using Alteryx Designer. It 
 - Joined datasets on Tour_ID for unified analysis.  
 - Sorted riders by performance.  
 
+## 📁 Project Structure
+Tour_de_France/
+├── Input_data/
+│ ├── tdf_finishers.xlsx
+│ ├── tdf_stages.xlsx
+│ ├── tdf_tours.xlsx
+│ └── tdf_winners.xlsx
+├── Workflow/
+│   └── Tour_de_France.yxmd
+└── README.md
+└── LICENSE
+
 ## 🛠️ Tools Used
 - **Alteryx Designer**
   - Input Tool
