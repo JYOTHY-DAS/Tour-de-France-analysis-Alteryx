@@ -18,6 +18,7 @@ This project analyzes historical Tour de France data using Alteryx Designer. It 
 - Sorted riders by performance.  
 
 ## 📁 Project Structure
+```
 Tour_de_France/
 ├── Input_data/
 │ ├── tdf_finishers.xlsx
@@ -28,7 +29,8 @@ Tour_de_France/
 │   └── Tour_de_France.yxmd
 └── README.md
 └── LICENSE
-
+```
+---
 ## 🛠️ Tools Used
 - **Alteryx Designer**
   - Input Tool
